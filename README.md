@@ -82,8 +82,3 @@ This will download the audio, transcribe it, and save the text in a folder calle
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-### Summary:
-This version of the `README.md` includes a clear and concise description of the project, steps to set up and use it, and a brief overview of the project structure. It is written to ensure anyone visiting your GitHub repository can quickly understand and start using the project. Let me know if you'd like any further adjustments!
