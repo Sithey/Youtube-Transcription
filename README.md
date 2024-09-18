@@ -29,7 +29,7 @@ Before using this project, ensure that you have:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Sithey/Youtube-Transcription.git)
+   git clone https://github.com/Sithey/Youtube-Transcription.git
    ```
 
 2. Navigate to the project directory:
