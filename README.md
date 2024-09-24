@@ -69,7 +69,7 @@ This will download the audio, transcribe it, and save the text in a folder calle
 ## Project Structure
 
 ```
-/your-repo-name
+/Youtube-Transcription
   ├── main.py                 # The main script for downloading and transcribing
   ├── requirements.txt         # List of dependencies
   ├── README.md                # Project documentation
