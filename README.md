@@ -1,14 +1,13 @@
 # YouTube Audio Transcription with Whisper
 
-This project provides a Python script that downloads audio from YouTube videos and automatically transcribes the content into text using Whisper, a speech recognition model developed by OpenAI. The transcription process is accompanied by a progress bar for user feedback.
+This project provides a Python script that downloads audio from YouTube videos and automatically transcribes the content into text using Whisper, a speech recognition model developed by OpenAI.
 
 ## Features
 
 - Download audio from any YouTube video using `yt-dlp`.
 - Transcribe the downloaded audio using Whisper's speech-to-text capabilities.
 - Automatically format the transcription with line breaks after each sentence.
-- Track the transcription progress with a progress bar.
-
+  
 ## Prerequisites
 
 Before using this project, ensure that you have:
@@ -29,12 +28,12 @@ Before using this project, ensure that you have:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Sithey/Youtube-Transcription.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Youtube-Transcription
    ```
 
 3. Install the required dependencies:
@@ -70,7 +69,7 @@ This will download the audio, transcribe it, and save the text in a folder calle
 ## Project Structure
 
 ```
-/your-repo-name
+/Youtube-Transcription
   ├── main.py                 # The main script for downloading and transcribing
   ├── requirements.txt         # List of dependencies
   ├── README.md                # Project documentation
